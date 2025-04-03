@@ -4,3 +4,6 @@ leite
 feijão
 açucar
 alface
+papa
+doritos
+coca cola
